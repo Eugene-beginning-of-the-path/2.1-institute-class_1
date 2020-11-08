@@ -1,0 +1,8 @@
+D:\Program\Visual kod\Labs1_class\Debug\Labs1_class.exe
+D:\Program\Visual kod\Labs1_class\Debug\Labs1_class.pdb
+D:\Program\Visual studio kod\Class_labs\Class_labs1\Debug\Labs1_class.exe
+D:\Program\Visual studio kod\Class_labs\Class_labs1\Debug\Labs1_class.pdb
+C:\Users\Eugene PC\Downloads\Class_labs1\Debug\Labs1_class.exe
+C:\Users\Eugene PC\Downloads\Class_labs1\Debug\Labs1_class.pdb
+D:\Program\Visual kod\Classes_labs\Class_labs1\Debug\Labs1_class.exe
+D:\Program\Visual kod\Classes_labs\Class_labs1\Debug\Labs1_class.pdb
